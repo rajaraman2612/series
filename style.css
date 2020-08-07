@@ -1,0 +1,60 @@
+ .logo{
+  width: 5%;
+  position: absolute;
+  top:20.75px;
+  left:30.5px;
+  bottom:50px;
+
+}
+
+.head{
+  width:1430px;
+  color:;
+  padding: 20px;
+    background-image:url('i/TV-Shows.jpg');
+    width:1490px;
+        height: 190px;
+    border:10px solid black;
+    padding: 2px;
+    margin:3px;
+  }
+  .drop{
+    background-image: url('color.jpg');
+  color:#FF0000;
+  padding: 16px;
+  font-size: 16px;
+  border:5px ;
+
+
+  }
+  .dropbutton {
+  background-image: url('color.jpg');
+  color:black;
+  padding: 16px;
+  font-size: 16px;
+  border:5px ;
+}
+
+.dropdown:hover 
+.dropbutton {background-color:#668188 :};
+<br>
+.footer{
+  .box{
+    width: 50px;
+    height: 25px;
+  }
+.bb{
+    text-align: justify;
+    width:759px;
+}
+.foot{
+  width:1430px;
+  color:;
+  padding: 20px;
+    background-image:url('i/TV-Shows.jpg');
+    width:1490px;
+        height: 190px;
+    border:10px solid black;
+    padding: 2px;
+    margin:3px;
+}
